@@ -61,7 +61,6 @@
     "@types/react": "17.0.37",
     "@types/react-dom": "17.0.11",
     "babel-plugin-formatjs": "^10.3.18",
-    "config": "workspace:*",
     "dotenv": "^16.0.1",
     "eslint": "7.32.0",
     "jest": "^27.5.1",
@@ -71,6 +70,7 @@
     "ts-jest": "^27.1.4",
     "tsconfig": "workspace:*",
     "env-vars": "workspace:*",
+    "eslint-config-checkout": "workspace:*",
     "typescript": "^4.7.3"
   }
 }
