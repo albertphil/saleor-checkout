@@ -60,7 +60,7 @@ const Channel = () => {
       },
     });
 
-    setPublicMetadata({
+    void setPublicMetadata({
       id: appId || serverEnvVars.appId,
       input: metadata,
     });
